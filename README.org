@@ -1,0 +1,16 @@
+#+title: Readme
+
+* DOOM Emacs
+You can find what Doom Emacs here - [[https://github.com/doomemacs/doomemacs][Doom Emacs Github]]
+
+* What this is?
+My personal configuration of Doom Emacs so I don't lose the too many hours I lost in my life to understand this beautiful software.
+
+* How to get the files
+#+BEGIN_SRC bash
+git clone https://github.com/r0m5s/ItJustRunsDoom $HOME/.config/doom
+#+END_SRC
+
+Since the default config installation in Linux is $HOME/.config use the this line. It also applies for Emacs running with WSL on Windows.
+
+To iOS but I can't test.
