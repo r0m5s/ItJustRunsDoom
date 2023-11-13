@@ -1,0 +1,161 @@
+* University of Sunderland
+** 3rd Year
+*** CET300
+**** DONE [#A] Literature Review [3/3]
+CLOSED: [2021-12-17 Fri 19:26] SCHEDULED: <2021-12-17 Fri 23:59>
++ [X] Transfer Chapter 3 of DB to LR
++ [X] Gather and read resources
+  - Cisco
+  - Cloudflare Learning
+  - Intrusion detection systems
+  - Brute Force attacks
++ [X] Draft Chapter 2
+
+**** DONE Dissertation [0/0]
+CLOSED: [2022-05-06 Fri 14:00] SCHEDULED: <2022-05-06 Fri 23:59>
+***** DONE Chapter 1 - Introduction
+CLOSED: [2022-05-05 Thu 14:48]
+***** DONE Chapter 2 - Literature Review
+CLOSED: [2022-02-22 Tue 15:08]
+***** DONE Chapter 3 - Analysis & Design
+CLOSED: [2022-05-05 Thu 14:48]
+***** DONE Chapter 4 - Development
+CLOSED: [2022-05-05 Thu 14:48]
+***** DONE Chapter 5 - Testing
+CLOSED: [2022-05-06 Fri 14:00]
+***** DONE Chapter 6 - Evaluation
+CLOSED: [2022-05-06 Fri 14:00]
+***** DONE Chapter 7 - Conclusions & Future Recommendations
+CLOSED: [2022-05-06 Fri 14:00]
+***** DONE Appendices
+CLOSED: [2022-05-06 Fri 14:00]
+****** CANCELLED Heuristic Analysis
+CLOSED: [2021-12-12 Sun 12:50] SCHEDULED: <2021-11-26 Fri>
+****** DONE Flowchart
+CLOSED: [2022-05-05 Thu 14:48]
+****** DONE Case Scenarios [3/3]
+CLOSED: [2022-05-05 Thu 14:48]
++ [X] for SSH client - 18/11/2021
++ [X] Redirect SSH connection
++ [X] Others
+****** DONE Client Meetings [5/5]
+CLOSED: [2022-05-06 Fri 14:00]
++ [X] Meeting 1 - 1/11/2021
++ [X] Meeting 2 - 17/11/2021
++ [X] Meeting 3 - 23/11/2021 - 16:30
++ [X] Meeting 4
++ [X] Meeting 5 - Evaluation - 05/05/2022 - 16h30
+****** DONE Blog
+CLOSED: [2022-05-05 Thu 14:47]
+
+- State "DONE"       from "TODO"       [2022-05-05 Thu 14:47]
+- State "DONE"       from "TODO"       [2022-05-05 Thu 14:47]
+- State "DONE"       from "TODO"       [2022-05-05 Thu 14:47]
+- State "DONE"       from "TODO"       [2022-05-05 Thu 14:46]
+- State "DONE"       from "TODO"       [2022-04-23 Sat 02:28]
+- State "DONE"       from "TODO"       [2022-04-23 Sat 02:28]
+- State "DONE"       from "TODO"       [2022-04-09 Sat 11:02]
+- State "DONE"       from "TODO"       [2022-04-09 Sat 11:02]
+- State "DONE"       from "TODO"       [2022-03-26 Sat 13:28]
+- State "DONE"       from "TODO"       [2022-03-26 Sat 13:28]
+- State "DONE"       from "TODO"       [2022-03-20 Sun 08:31]
+- State "DONE"       from "TODO"       [2022-03-17 Thu 15:08]
+- State "DONE"       from "TODO"       [2022-03-05 Sat 08:16]
+- State "DONE"       from "TODO"       [2022-02-25 Fri 14:54]
+- State "DONE"       from "TODO"       [2022-02-23 Wed 09:42]
+- State "DONE"       from "TODO"       [2022-01-23 Sun 08:04]
+- State "DONE"       from "TODO"       [2021-12-17 Fri 19:26]
+- State "DONE"       from "TODO"       [2021-12-12 Sun 12:51]
+- State "DONE"       from "TODO"       [2021-12-06 Mon 22:29]
+- State "DONE"       from "TODO"       [2021-11-28 Sun 19:35]
+
+**** DONE Artefact
+CLOSED: [2022-05-05 Thu 14:48] SCHEDULED: <2022-05-06 Fri 23:59>
+
+**** DONE Project Presentation [0/0]
+CLOSED: [2022-05-09 Mon 21:34] SCHEDULED: <2022-05-09 Mon 23:59>
+***** DONE Poster Submission
+CLOSED: [2022-05-09 Mon 21:34]
+- [X] Pedir ajuda para o design to poster com a Mia
+***** DONE Screencast Submission
+CLOSED: [2022-05-09 Mon 21:34]
+
+*** CET327
+**** DONE [#A] Assignment [0/0]
+CLOSED: [2022-01-17 Mon 12:05] SCHEDULED: <2021-12-11 Sat 23:59>
+***** DONE Element 1 [[https://canvas.sunderland.ac.uk/courses/50191/files/4590270?module_item_id=968671]] [8/8]
+CLOSED: [2021-11-26 Fri 23:41]
++ [X] Basic iBGP Configuration *(10 marks)*
++ [X] Basic eBGP Configuration *(10 marks)*
++ [X] Configuration of support protocols for BGP *(20 marks)*
++ [X] Stability and reliability enhancements for BGP *(10 marks)*
++ [X] Fully labelled topology diagram showing devices, device names, links, interface labels (Gigabit and loopback), IP addresses, subnet masks. BGP domains, ASNs. Marks will be awarded for clarity, completeness and accuracy. A scanned hand drawn sketch will not be acceptable. *(10 marks)*
++ [X] Written justification for the use of additional loopback interfaces and support protocols for BGP operation. *(10 marks)*
++ [X] Full command listings for each router. Marks will be awarded for clear, concise and complete command listings. *(10 marks)*
++ [X] A comprehensive test plan that could be used to check the operational status of the network. *(10 marks)*
+
+***** DONE Element 2 [[https://canvas.sunderland.ac.uk/courses/50191/files/4581702?module_item_id=966312]] [4/4]
+CLOSED: [2022-01-11 Tue 19:10]
++ [X] Service Provider 2 (SP2) Requirements *(16 marks)*
++ [X] Service Provider 3 (SP3) Requirements *(24 marks)*
++ [X] Service Provider 1 (SP1) Requirements *(30 marks)*
++ [X] Documentation *(30 marks)*
+
+***** DONE Element 3 [[https://canvas.sunderland.ac.uk/courses/50191/files/4581711?module_item_id=966316]] [2/2]
+CLOSED: [2022-01-17 Mon 12:05]
++ [X] Service Provider 1 (SP1) and Service Provider 3 (SP3) Requirements *(70 marks)*
++ [X] Documentation *(30 marks)*
+**** DONE Assignment 2 [0/0]
+CLOSED: [2022-02-22 Tue 15:09]
+
+*** CET369
+**** DONE Assignment [[https://canvas.sunderland.ac.uk/courses/50199/files/4610431?module_item_id=972935]]
+CLOSED: [2022-01-22 Sat 18:13] SCHEDULED: <2022-01-21 Fri 23:59>
+
+*** CET324
+**** DONE CET324 Assign 1 - Report
+CLOSED: [2022-03-20 Sun 08:31] SCHEDULED: <2022-03-18 Fri>
+**** DONE CET324 Assign 2
+CLOSED: [2022-05-27 Fri 21:26] DEADLINE: <2022-05-27 Fri>
+*** CET303
+**** DONE CET303 Assign 1 - Report
+CLOSED: [2022-04-09 Sat 11:02] SCHEDULED: <2022-04-08 Fri>
+
+**** DONE CET303 Assign 2
+CLOSED: [2022-05-17 Tue 13:21] DEADLINE: <2022-05-17 Tue>
+
+* Others
+** DONE Setup LinkdIn Profile
+CLOSED: [2022-07-02 Sat 17:38]
+** DONE Change DDNS from No-IP to Duckdns at home
+CLOSED: [2021-12-24 Fri 12:45]
+
+* Travel
+** DONE UK - Portugal [4/4]
+    CLOSED: [2021-12-19 Sun 01:51] SCHEDULED: <2021-12-18 Wed 16:30>
++ [X] Passenger Locator Form Portugal - [[https://portugalcleanandsafe.pt/en/passenger-locator-card]]
++ [X] Download COVID Pass
++ [X] Antigen test to travel
++ [X] Lista:
+  + [X] Nintendo Switch
+  + [X] DS4 Controller
+  + [X] Usb Wifi Adapter
+  + [X] Wireless Headphones
+  + [X] Carteira
+  + [X] Baterias recarregaveis
+  + [X] Adaptadores UK - EU
+  + [X] Laptop
+
+** DONE Portugal - UK [4/4]
+CLOSED: [2022-02-04 Fri 14:16] SCHEDULED: <2022-02-02 Wed 14:30>
++ [X] Passenger Locator Form UK - [[https://www.gov.uk/provide-journey-contact-details-before-travel-uk]]
++ [X] Download COVID Pass
++ [X] Buy an antigen test - [[https://www.find-travel-test-provider.service.gov.uk/providers]]
++ [X] Lista:
+  + [X] DS4 Controller
+  + [X] Usb Wifi Adapter
+  + [X] Wireless Headphones
+  + [X] Carteira
+  + [X] Baterias recarregaveis
+  + [X] Laptop
+  + [X] Oculus Quest
